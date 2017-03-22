@@ -1,3 +1,3 @@
-# The-Built
+# Adventure
 Minecraft Modpack
-Simple, Buildcraft focused 1.7.10 modpack. 
+A exploring and adventure focused Minecraft modpack for version 1.11.2. 
